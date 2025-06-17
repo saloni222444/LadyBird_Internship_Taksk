@@ -3,7 +3,7 @@
 This project is a simple static HTML page that simulates a blog post titled **"An Insider's Guide to NYFW"**. It was created as part of my learning journey in HTML.
 
 ---
-
+![alt text](<Screenshot 2025-06-17 134515.png>)
 ## 📚 What I Learned
 
 ### 🧱 HTML Structure
