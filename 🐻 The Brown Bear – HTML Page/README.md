@@ -4,6 +4,9 @@ This project is a simple web page that provides information about the **Brown Be
 
 ---
 
+![Brown Bear](![Screenshot 2025-06-17 131738](https://github.com/user-attachments/assets/34371edb-ec41-46d8-bdd2-61ae7f219a3b)
+)
+
 ## ✅ Concepts Learned
 
 ### 1. Basic HTML Structure
