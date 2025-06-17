@@ -4,6 +4,8 @@ This project is a static HTML webpage that displays a beautifully structured **e
 
 ---
 
+![alt text](<Screenshot 2025-06-17 140236.png>)
+
 ## ✅ Concepts Learned
 
 ### 1. HTML Boilerplate Structure
