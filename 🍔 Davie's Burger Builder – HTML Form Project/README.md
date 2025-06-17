@@ -4,6 +4,8 @@ This project is a hands-on exercise to build a **custom burger order form** usin
 
 ---
 
+![alt text](image.png)
+
 ## 📚 What I Learned
 
 ### 🧱 HTML Structure
