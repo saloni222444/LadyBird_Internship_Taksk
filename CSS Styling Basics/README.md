@@ -2,6 +2,8 @@
 
 Welcome to my learning summary on CSS Styling! In this project, I explored how to style text and images using Cascading Style Sheets (CSS). Here's what I covered and practiced:
 
+![alt text](<CSS Styling Basics/Screenshot 2025-06-20 122134.png>)
+
 ## ✅ What I Learned
 
 ### 🎨 Typography
