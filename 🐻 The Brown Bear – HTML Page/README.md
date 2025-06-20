@@ -4,7 +4,7 @@ This project is a simple web page that provides information about the **Brown Be
 
 ---
 
-![Screenshot 2025-06-17 131738](🐻 The Brown Bear – HTML Page/image.png)
+![alt text](<image.png>)
 
 ## ✅ Concepts Learned
 

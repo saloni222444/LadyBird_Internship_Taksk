@@ -3,7 +3,7 @@
 This project represents a company dashboard web page that displays a list of companies and their shipping actions. It is built using basic HTML and links to external CSS and Google Fonts.
 
 ---
-![Screenshot](📦 Ship To It – Company Packing List/Screenshot 2025-06-17 135613.png)
+![alt text](<Screenshot 2025-06-17 135613.png>)
 
 ## ✅ Concepts Learned
 
